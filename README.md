@@ -11,5 +11,6 @@ This test is written with Robot Framework using APPIUM library.
 5. Installing Python 2.7 
 
 # How to run
-1.open cmd in test file directory
-2.command: robot [FileName].robot 
+open cmd in test file directory
+
+command: robot [FileName].robot 
