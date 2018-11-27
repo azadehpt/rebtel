@@ -13,4 +13,4 @@ This test is written with Robot Framework using APPIUM library.
 # How to run
 open cmd in test file directory
 
-command: robot [FileName].robot 
+run robot [FileName].robot 
