@@ -20,9 +20,9 @@ ${Dialpad}                          id=com.rebtel.android:id/dialpadButton
 ${Calling_Number_FIELD}             id=com.rebtel.android:id/dialpadPhoneText
 ${Call_Button}                      id=com.rebtel.android:id/callButton
 ${Hangup_Button}                    id=com.rebtel.android:id/hangupButton
-${Default_Number}                    id=com.rebtel.android:id/inputPhoneNumber
-${Allow_Button}                      id=com.android.packageinstaller:id/permission_allow_button
-${Accept_Button}                     id=com.rebtel.android:id/accept
+${Default_Number}                   id=com.rebtel.android:id/inputPhoneNumber
+${Allow_Button}                     id=com.android.packageinstaller:id/permission_allow_button
+${Accept_Button}                    id=com.rebtel.android:id/accept
 
 
 
